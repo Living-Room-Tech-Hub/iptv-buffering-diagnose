@@ -98,4 +98,4 @@ Want the live service we use as our reference baseline? See
 MIT for the code. CC-BY-4.0 for the written notes.
 
 ---
-*Last verified: July 01, 2026*
+*Last verified: July 02, 2026*
